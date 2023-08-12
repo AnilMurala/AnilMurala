@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @AnilMurala
-- 👀 I’m interested in working on microservice based applications
+- 👀 I’m interested in working on microservices based applications
 - 🌱 I’m currently learning clojureScript
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
